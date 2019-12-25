@@ -1,0 +1,73 @@
+.wrapper {
+    /* width: 700px;
+    height: 200px; */
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+    padding: 20px;
+}
+.circle {
+    border-radius: 50%;
+    border: solid 4px #4183c4;
+    position: absolute;
+    background: white;
+    cursor: pointer;
+}
+.big-circle {
+    width: 50px;
+    height: 50px;
+}
+.small-circle {
+    width: 20px;
+    height: 20px;
+    margin-top: 100px;
+}
+.group-small-circle {
+    display: flex;
+}
+.group-small-circle div {
+    margin-left: 10px;
+}
+.mt-85 {
+    margin-top: 85px;
+}
+.a {
+    top: 0;
+    left: 80px;
+}
+.b {
+    left: 240px;
+    top: 18px;
+}
+.c {
+    left: 295px;
+    top: 18px;
+}
+.d {
+    left: 351px;
+    top: 18px;
+}
+.e {
+    top: 103px;
+    left: 415px;
+}
+.f {
+    left: 484px;
+    top: 18px;
+}
+.g {
+    left: 557px;
+    top: 18px;
+}
+.h {
+    left: 629px;
+    top: 18px;
+}
+.i {
+    top: 103px;
+    left: 680px;
+}
+.o {
+    top: 0;
+    left: 831px;
+}
